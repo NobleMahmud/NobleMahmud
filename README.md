@@ -20,7 +20,8 @@
 </p>
 
 ## Reach me out
-[<p align="center"><img height="175" src="https://raw.githubusercontent.com/NobleMahmud/NobleMahmud/main/linkedin.png"></p>](https://www.linkedin.com/in/mahmud-one-is1)
+![LinkedIn](https://raw.githubusercontent.com/NobleMahmud/NobleMahmud/main/linkedin.png)](https://www.linkedin.com/in/mahmud-one-is1)
+
 
 <br />
 
