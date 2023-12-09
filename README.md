@@ -34,6 +34,6 @@
 
 </br>
 
-<p align="center">(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NobleMahmud&theme=ayu_mirage)</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NobleMahmud&theme=ayu_mirage)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NobleMahmud&theme=ayu_mirage)
