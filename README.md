@@ -4,8 +4,6 @@
 
 ### Hi there 👋
 
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +12,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Current Stats
+</br>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NobleMahmud&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF4500&sideLabels=00F0FF&currStreakNum=FF4500&ring=FF4500&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
